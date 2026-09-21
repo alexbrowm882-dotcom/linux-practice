@@ -1,0 +1,20 @@
+# GCC generated files
+*.o
+*.out
+*.i
+
+# executables generated in exercises
+hello
+bug
+debug
+crash
+
+# core dump
+core
+core.*
+*_core_*
+
+# editor temporary files
+*.swp
+*.swo
+*~
